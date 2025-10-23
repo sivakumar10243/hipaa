@@ -1,5 +1,3 @@
-Here’s a clean, concise **Windows MariaDB SSL + Data-at-Rest Encryption guide** using your commands, formatted clearly for execution:
-
 ---
 
 # **MariaDB SSL & Data-at-Rest Encryption on Windows**
